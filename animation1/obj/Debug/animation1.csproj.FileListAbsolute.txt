@@ -1,0 +1,16 @@
+C:\Users\307-04\Documents\animation1\bin\Debug\animation1.exe.config
+C:\Users\307-04\Documents\animation1\bin\Debug\animation1.exe
+C:\Users\307-04\Documents\animation1\bin\Debug\animation1.pdb
+C:\Users\307-04\Documents\animation1\obj\Debug\animation1.csproj.AssemblyReference.cache
+C:\Users\307-04\Documents\animation1\obj\Debug\animation1.csproj.SuggestedBindingRedirects.cache
+C:\Users\307-04\Documents\animation1\obj\Debug\MainWindow.g.cs
+C:\Users\307-04\Documents\animation1\obj\Debug\App.g.cs
+C:\Users\307-04\Documents\animation1\obj\Debug\animation1_MarkupCompile.cache
+C:\Users\307-04\Documents\animation1\obj\Debug\animation1_MarkupCompile.lref
+C:\Users\307-04\Documents\animation1\obj\Debug\MainWindow.baml
+C:\Users\307-04\Documents\animation1\obj\Debug\animation1.g.resources
+C:\Users\307-04\Documents\animation1\obj\Debug\animation1.Properties.Resources.resources
+C:\Users\307-04\Documents\animation1\obj\Debug\animation1.csproj.GenerateResource.cache
+C:\Users\307-04\Documents\animation1\obj\Debug\animation1.csproj.CoreCompileInputs.cache
+C:\Users\307-04\Documents\animation1\obj\Debug\animation1.exe
+C:\Users\307-04\Documents\animation1\obj\Debug\animation1.pdb

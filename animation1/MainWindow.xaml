@@ -1,0 +1,27 @@
+﻿<Window x:Class="animation1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:animation1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="900" Width="720">
+    <Window.Background>
+        <ImageBrush ImageSource="/Image/phon.png" />
+    </Window.Background>
+
+    <Window.Resources>
+
+    </Window.Resources>
+
+    <Canvas >
+        <Label Content="Happy New Year" x:Name="text1" FontSize="50" Foreground="Transparent" Canvas.Left="171" Canvas.Top="122" FontFamily="Algerian"/>
+        <Label Content="Happy New Year" x:Name="text" FontSize="50" Foreground="Transparent" Canvas.Left="171" Canvas.Top="125" FontFamily="Algerian" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <Canvas x:Name="canvas" Width="720" Height="800"/>
+        <Frame Background="White" Width="720" Height="100" Canvas.Top="805"/>
+
+        <Image Source="/Image/pngegg.png" MouseDown="cmdStart_Clicked" Canvas.Left="500" Canvas.Top="700" Height="199" Width="188" />
+        <Image Source="/Image/pik.png" MouseDown="cmdStop_Clicked" Height="350" Width="385" Canvas.Left="-100" Canvas.Top="620"/>
+  
+    </Canvas>
+</Window>
